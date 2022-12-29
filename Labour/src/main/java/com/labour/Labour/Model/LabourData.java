@@ -4,6 +4,7 @@ import java.sql.Date;
 
 public class LabourData {
 	
+	
 	private int id;
 	private String name;
 	private String email;

@@ -1,0 +1,12 @@
+package com.consumer.Consumer.JobRoleRepository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.consumer.Consumer.Model.JobRole;
+
+@Repository
+public interface JobRoleRepository extends JpaRepository<JobRole,Integer>{
+	
+	
+}

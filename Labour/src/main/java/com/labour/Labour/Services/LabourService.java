@@ -5,8 +5,6 @@ import org.springframework.stereotype.Service;
 
 import com.labour.Labour.LabourRepository.LabourRepository;
 
-
-
 @Service
 public class LabourService {
 

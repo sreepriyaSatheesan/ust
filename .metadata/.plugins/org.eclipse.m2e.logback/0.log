@@ -1517,3 +1517,27 @@
 2022-12-29 16:59:05,685 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
 2022-12-29 16:59:05,685 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
 2022-12-29 16:59:05,688 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
+2022-12-29 19:19:10,821 [Worker-100: Fetching remote refs from git@github.com:sreepriyaSatheesan/ust.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2022-12-29 19:19:11,500 [Worker-100: Fetching remote refs from git@github.com:sreepriyaSatheesan/ust.git] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
+2022-12-29 19:19:24,281 [sshd-JGitSshClient[465d0bfa]-nio2-thread-2] WARN  o.e.j.i.t.sshd.JGitClientSession - exceptionCaught(JGitClientSession[git@github.com/20.207.73.82:22])[state=Opened] SshException: Server key did not validate
+2022-12-29 19:19:24,299 [sshd-JGitSshClient[465d0bfa]-nio2-thread-2] INFO  o.e.j.i.t.sshd.JGitClientSession - Disconnecting(JGitClientSession[git@github.com/20.207.73.82:22]): SSH2_DISCONNECT_HOST_KEY_NOT_VERIFIABLE - Server key did not validate
+2022-12-29 19:19:28,823 [sshd-JGitSshClient[26ed0628]-nio2-thread-2] WARN  o.e.j.i.t.sshd.JGitClientSession - exceptionCaught(JGitClientSession[git@github.com/20.207.73.82:22])[state=Opened] SshException: Server key did not validate
+2022-12-29 19:19:28,825 [sshd-JGitSshClient[26ed0628]-nio2-thread-2] INFO  o.e.j.i.t.sshd.JGitClientSession - Disconnecting(JGitClientSession[git@github.com/20.207.73.82:22]): SSH2_DISCONNECT_HOST_KEY_NOT_VERIFIABLE - Server key did not validate
+2022-12-29 19:40:39,679 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-29 19:40:39,705 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-29 19:40:39,711 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Labour\src\test\resources
+2022-12-29 19:41:48,824 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:41:48,824 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:41:48,826 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
+2022-12-29 19:42:22,538 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:22,538 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:22,541 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
+2022-12-29 19:42:36,724 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:36,724 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:36,726 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
+2022-12-29 19:42:47,958 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:47,958 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:42:47,961 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
+2022-12-29 19:43:10,374 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:43:10,374 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\main\resources
+2022-12-29 19:43:10,376 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ustjavafsdb417\eclipse-workspace\Consumer\src\test\resources
