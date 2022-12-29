@@ -1,0 +1,5 @@
+package com.consumer.Consumer.JobRoleRepository;
+
+public class JobRoleRepository {
+
+}

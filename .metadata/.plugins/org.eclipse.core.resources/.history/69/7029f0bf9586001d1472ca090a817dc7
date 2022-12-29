@@ -1,0 +1,5 @@
+package com.consumer.Consumer.Model;
+
+public class JobRole {
+
+}

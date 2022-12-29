@@ -1,0 +1,9 @@
+package Java8Programs;
+
+public @interface panCard {
+	
+	public List<panModel> getDetails(){
+		List<panModel> List =new ArrayList<>();
+	}
+	List<panModel> list = new ArrayList<>();
+}

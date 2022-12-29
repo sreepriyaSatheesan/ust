@@ -1,0 +1,9 @@
+package Java8Programs;
+
+public class StreamServices {
+
+	public static void main(String[] args) {
+	
+	}
+
+}

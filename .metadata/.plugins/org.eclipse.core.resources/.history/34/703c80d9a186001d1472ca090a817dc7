@@ -1,0 +1,22 @@
+package com.consumer.Consumer.Services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+public class LabourService {
+	
+
+		@Autowired
+		JobRoleRepository jobrepo;
+		
+		@Autowired
+		LabourDataRepository la
+		
+		public JobRole addJobRole(JobRole role) {
+			return jobrepo.save(role);
+		}
+		
+	}
+
+
